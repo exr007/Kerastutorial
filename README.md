@@ -3,7 +3,7 @@
 This is a tutorial for using some of the basic features in Keras. 
 
 Requirements
-- Python 3.6 or earlier (Tensorflow doesn't work with 3.7)
+- Python 3.6 or earlier (Tensorflow may/may not work with 3.7, it does for Warrick but it doesn't for me)
 - tensorflow
 - keras
 - numpy
